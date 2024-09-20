@@ -8,6 +8,7 @@ import {
 } from "../controllers/postsController.js";
 import auth from "../middlewares/auth.js";
 
+
 // Creating an instance of Express router
 const router = express.Router();
 
